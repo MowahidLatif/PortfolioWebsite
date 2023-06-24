@@ -6,7 +6,7 @@ interface Props {
   position: string;
   time: string;
   location: string;
-  description: string;
+  description: string[];
   tech: string[];
 }
 
@@ -39,7 +39,7 @@ export const ExperienceItem = ({
       </div>
       <Reveal>
         <div>
-          {description.map((desc) => (
+          {description?.map((desc: string) => (
             <p className={styles.description} key={desc}>{desc}</p>
           ))}
         </div>

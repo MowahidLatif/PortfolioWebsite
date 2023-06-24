@@ -21,20 +21,20 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-            I like to get things done, and I'm a thoughtful person yet very hands-on. 
-            I'm are not afraid of trying out new tools, dealing with new requests, and getting over them.  
+            I like to get things done, and I&apos;m a thoughtful person yet very hands-on. 
+            I&apos;m are not afraid of trying out new tools, dealing with new requests, and getting over them.  
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
               Outside of work, I enjoy reading. I try to workout as much as i can, and 
               I enjoy nature walks and boxing! I like the thrill of learning a new skill, and for
-              that reason, im persuing a career in devops, as im taking a course for that right now!
+              that reason, I&apos;m persuing a career in devops and cloud architecture, as I&apos;m taking a course for that right now!
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I'm a keen learner and there is almost nothing that i wont try to learn more about. I 
+              I&apos;m a keen learner and there is almost nothing that i wont try to learn more about. I 
               try to read as much as i can and i do monthly sprints, about specific topics, weather 
               that be business or neurochemistry. Knowledge is the greatest tool we have and of course, 
               knowledge is power!
