@@ -38,7 +38,11 @@ export const ExperienceItem = ({
         </Reveal>
       </div>
       <Reveal>
-        <p className={styles.description}>{description}</p>
+        <p className={styles.description}>{description[0]}</p>
+        <p className={styles.description}>{description[1]}</p>
+        <p className={styles.description}>{description[2]}</p>
+        <p className={styles.description}>{description[3]}</p>
+        <p className={styles.description}>{description[4]}</p>
       </Reveal>
       <Reveal>
         <div className={styles.tech}>
