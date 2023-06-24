@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.copyWrapper}>
         <Reveal>
           <h1 className={styles.title}>
-            Hey, I&apos;m Bob<span>.</span>
+            Hello, I&apos;m Mowahid Latif<span>.</span>
           </h1>
         </Reveal>
         <Reveal>
@@ -19,9 +19,8 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I&apos;ve spent the last 5 years building and scaling software for
-            some pretty cool companies. I also teach people to paint online
-            (incase you&apos;ve got an empty canvas layin&apos; around 🎨).
+            I&apos;ve spent the last 3 years building and scaling software for
+            some pretty unique and interesting companies/startups. 
             Let&apos;s connect!
           </p>
         </Reveal>
@@ -29,7 +28,7 @@ export const Hero = () => {
           <StandardButton
             onClick={() => document.getElementById("contact")?.scrollIntoView()}
           >
-            Contact me
+            Contact me!
           </StandardButton>
         </Reveal>
       </div>
