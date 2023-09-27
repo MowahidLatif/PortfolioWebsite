@@ -16,7 +16,7 @@ const experience = [
   {
     title: "Indigpro",
     position: "Full Stack Software Developer",
-    time: "November 2022 - May 2023",
+    time: "January 2022 - July 2023",
     location: "Winnipeg, MB",
     description: [
       "In my role as a software developer, I undertook meticulous research and selected robust tools that were instrumental in the development, enhancement, and management of over six complex projects. These initiatives not only catered to our clients' needs but also served the company's internal operations. My efforts in making these judicious choices played a significant role in driving business growth and fostering a culture of creativity. I was also involved in the strategic planning and complete overhaul of more than ten client websites and applications. In doing so, I leveraged various frontend and backend frameworks and utilized cloud storage services such as AWS, Firebase, and Azure.",
@@ -42,7 +42,7 @@ const experience = [
   {
     title: "Smartrend Manufacturing Group",
     position: "ERP Software Engineer",
-    time: "February 2022 - October 2022",
+    time: "February 2021 - December 2021",
     location: "Winnipeg, MB",
     description: [
       "At Smartrend Manufacturing Group, I had the opportunity to lead the integration of C# and Python software into custom OEM hardware. This initiative not only improved the existing product lineup but also resulted in a 30% acceleration of the overall development timeline. My role as a spearhead allowed me to effect significant changes in the production process and positively impacted the final output.",
@@ -52,8 +52,8 @@ const experience = [
   },
   {
     title: "Poisson Consulting",
-    position: "Software Engineer",
-    time: "October 2021 - December 2021",
+    position: "Software Engineer Intern",
+    time: "October 2020 - December 2020",
     location: "Winnipeg, MB",
     description: [
       "At my previous role, I engineered a Python-based Slack API Stack Bot that significantly enhanced workflow automation, alert monitoring, and responsive communication. This innovation was instrumental in improving our team's productivity and responsiveness to emergent issues. I also applied my Python skills to develop data analysis tools and used React.js to create intuitive client interfaces, contributing to better data representation and system performance.",
@@ -66,9 +66,9 @@ const experience = [
     ],
   },
   {
-    title: "Healthcare Systems R&A",
-    position: "Full Stack Software Engineer",
-    time: "July 2021 - September 2021",
+    title: "Healthcare Systems Research & Analytics",
+    position: "Full Stack Software Developer Intern",
+    time: "July 2020 - September 2020",
     location: "Winnipeg, MB",
     description: [
       "In my previous role, I exploited the capabilities of React and Flutter to build sturdy applications. These tools allowed me to embed user-centric functionalities and utilize Machine Learning, enabling improved predictions of customer health. In a bid to boost coding efficacy, I developed a strategy for code reuse in resolving bugs and reprogramming tasks, thereby enhancing our system's scalability and responsiveness to evolving demands and client specifications.",
