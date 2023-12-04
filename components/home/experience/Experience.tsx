@@ -14,30 +14,35 @@ export const Experience = () => {
 
 const experience = [
   {
+    title: "GrowDoc Inc",
+    position: "Lead Software Developer",
+    time: "January 2023 - Recent",
+    location: "Winnipeg, MB",
+    description:[ 
+      "In my role as Lead Software Developer at GrowDoc Inc, I spearheaded the development and deployment of the company's website, utilizing React and Node.js. This effort resulted in a highly engaging and responsive interface, attracting over 10,000 monthly visitors. My responsibilities extended to integrating more than 20 innovative features each month using React, significantly enhancing the user experience and functionality of our platforms.",
+      "I also led weekly code reviews with our development team, focusing on leveraging Node.js best practices. This initiative was instrumental in improving our code quality by 25%, reflecting our commitment to excellence in software development. My expertise in Flask enabled me to develop over 15 RESTful APIs, which played a pivotal role in facilitating efficient data exchange and integration with various third-party services.",
+      "Another notable achievement was customizing and deploying more than 30 client-specific features monthly on the Flask backend. This effort was crucial in achieving a 35% increase in client satisfaction and a 20% uptick in retention rates, underscoring our focus on client-centric development.",
+      "Additionally, I undertook the significant task of optimizing and refactoring our existing codebase. By reducing complexity by 30% and enhancing performance by 35%, I managed to streamline our database operations on MariaDB effectively. Furthermore, my use of AWS ensured scalable, secure, and high-availability deployment of our applications and databases, bolstering our infrastructure to support the growing needs of our business.",
+  ],
+    tech: [
+      "React.js",
+      "Node.js",
+      "Flask",
+      "MariaDB",
+      "AWS",
+      "RESTful APIs"
+    ]
+  },
+  {
     title: "Indigpro",
     position: "Full Stack Software Developer",
-    time: "January 2022 - July 2023",
+    time: "January 2022 - October 2022",
     location: "Winnipeg, MB",
     description: [
       "In my role as a software developer, I undertook meticulous research and selected robust tools that were instrumental in the development, enhancement, and management of over six complex projects. These initiatives not only catered to our clients' needs but also served the company's internal operations. My efforts in making these judicious choices played a significant role in driving business growth and fostering a culture of creativity. I was also involved in the strategic planning and complete overhaul of more than ten client websites and applications. In doing so, I leveraged various frontend and backend frameworks and utilized cloud storage services such as AWS, Firebase, and Azure.",
       "I was particularly successful in enhancing the performance of client websites by implementing best practices in React.js and Next.js. This led to a substantial 60% reduction in load time and a 20% improvement in responsiveness. Furthermore, I integrated AWS services to streamline CI/CD processes, effectively utilizing Docker and Kubernetes for the deployment, scalability, and security of applications. This integration resulted in a 20% increase in the project completion rate. To improve the efficiency of our development processes, I designed and implemented a custom agile setting for troubleshooting and debugging code. This setting expedited the code shipment by 30% and significantly reduced the time spent on code reviews, making debugging more effective."
     ],
-    tech: [
-      "React.js",
-      "Next.js",
-      "Python",
-      "Javascript",
-      "Typescript",
-      "Git",
-      "GitHub",
-      "Node.js",
-      "Tailwind",
-      "CSS",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "GraphQL",
-    ],
+    tech: [ "React.js","Next.js", "Python", "Javascript", "Typescript", "Git","GitHub", "Node.js", "Tailwind", "CSS", "AWS", "Docker", "Kubernetes", "GraphQL", ],
   },
   {
     title: "Smartrend Manufacturing Group",
