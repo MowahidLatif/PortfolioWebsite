@@ -81,8 +81,8 @@ const experience = [
     tech: ["Python", "R", "Java"],
   },
   {
-    title: "Health Systems R&A",
-    position: "Full Stack Software Developer Intern",
+    title: "Shared Health-Soins Communs",
+    position: "Full Stack Developer Intern",
     time: "July 2020 - September 2020",
     location: "Toronto, ON",
     description: [
