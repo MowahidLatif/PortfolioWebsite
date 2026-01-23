@@ -29,7 +29,7 @@ const experience = [
   {
     title: "Indigpro Inc",
     position: "Full Stack Software Developer",
-    time: "November 2022 - May 2023",
+    time: "December 2022 - April 2023",
     location: "Winnipeg, MB",
     description: [
       "Boosted user engagement with dynamic interfaces, increasing user activity and satisfaction.",
