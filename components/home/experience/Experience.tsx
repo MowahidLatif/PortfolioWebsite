@@ -16,7 +16,7 @@ const experience = [
   {
     title: "GrowDoc Inc",
     position: "Lead Software Developer",
-    time: "January 2023 - Present",
+    time: "July 2023 - Present",
     location: "Ottawa, ON",
     description: [
       "Led the creation and launch of a high-traffic React web app, attracting 10,000+ monthly visitors for both desktop and mobile.",
@@ -29,7 +29,7 @@ const experience = [
   {
     title: "Indigpro Inc",
     position: "Full Stack Software Developer",
-    time: "January 2022 - October 2022",
+    time: "November 2022 - May 2023",
     location: "Winnipeg, MB",
     description: [
       "Boosted user engagement with dynamic interfaces, increasing user activity and satisfaction.",
@@ -57,7 +57,7 @@ const experience = [
   {
     title: "Smartrend Manufacturing Group",
     position: "ERP Software Engineer",
-    time: "February 2021 - December 2021",
+    time: "May 2022 - September 2022",
     location: "Winnipeg, MB",
     description: [
       "Created department-specific interfaces, resulting in improved user interaction, user experience, and specific features.",
@@ -70,7 +70,7 @@ const experience = [
   {
     title: "Poisson Consulting",
     position: "Software Engineer Intern",
-    time: "October 2020 - December 2020",
+    time: "October 2021 - December 2021",
     location: "Vancouver, BC",
     description: [
       "Designed data analysis tools, improving efficiency in data processing by 30%.",
@@ -83,7 +83,7 @@ const experience = [
   {
     title: "Shared Health-Soins Communs",
     position: "Full Stack Developer Intern",
-    time: "July 2020 - September 2020",
+    time: "July 2021 - September 2021",
     location: "Toronto, ON",
     description: [
       "Developed mobile applications with Flutter/React focusing on improving front-end readability for elderly folks.",
