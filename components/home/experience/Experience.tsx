@@ -14,17 +14,29 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "GrowDoc Inc",
-    position: "Lead Software Developer",
-    time: "July 2023 - Present",
+    title: "Bold Commerce Inc",
+    position: "Intermediate Software Developer (Integrations/Backend)",
+    time: "April 2026 - October 2026",
+    location: "Winnipeg, MB",
+    description: [
+      "Enabled thousands of Shopify merchants to automate marketing from their store data by building a Klaviyo integration that syncs customer data into their Klaviyo accounts through the Shopify and Klaviyo REST APIs.",
+      "Extended Klaviyo beyond its built-in options by building custom UI elements that the integration adds as reusable templates, which merchants use to test and run campaigns.",
+      "Gave merchants in-app control of their plans, billing, subscriptions, customer data, and analytics by integrating Mantle into rePete and delivered Intercom integrations for clients who requested its customer messaging features.",
+    ],
+    tech: ["Shopify", "Klaviyo", "REST APIs", "Intercom", "Mantle"],
+  },
+  {
+    title: "FloraTrack AI",
+    position: "Senior Software Engineer",
+    time: "July 2023 - May 2026",
     location: "Ottawa, ON",
     description: [
-      "Led the creation and launch of a high-traffic React web app, attracting 10,000+ monthly visitors for both desktop and mobile.",
-      "Enhanced user experience with 20+ custom features, significantly improving platform functionality and usability.",
-      "Improved code quality by 25% through systematic code reviews and adherence to best practices for the purpose of consistency.",
-      "Developed and managed 15+ RESTful APIs, improving data exchange and integration with external partners and services.",
+      "Delivered AI-generated scouting summaries and priority scoring for 600+ clients by gathering client requirements and architecting a Flask service layer that integrates the Claude API with pest-scouting data in MariaDB.",
+      "Scaled a React.js web application to 10,000+ monthly active users by engineering a modular component architecture and implementing automated CI/CD deployment pipelines.",
+      "Cut API response times from 750ms to 150ms by refactoring RESTful endpoint queries and payload structures in Python/Flask.",
+      "Mentored 12+ engineers through PR reviews, one-on-one pairing, and architecture walkthroughs while managing priorities across client requests at a fast-paced startup.",
     ],
-    tech: ["React.js", "Node.js", "Flask", "MariaDB", "AWS", "RESTful APIs"],
+    tech: ["React.js", "Python", "Flask", "MariaDB", "Claude API", "CI/CD"],
   },
   {
     title: "Indigpro Inc",
@@ -56,16 +68,14 @@ const experience = [
   },
   {
     title: "Smartrend Manufacturing Group",
-    position: "ERP Software Engineer",
+    position: "ERP Developer",
     time: "May 2022 - September 2022",
     location: "Winnipeg, MB",
     description: [
-      "Created department-specific interfaces, resulting in improved user interaction, user experience, and specific features.",
-      "Managed large-scale projects, ensuring timely completion, successful deployment, and client satisfaction.",
-      "Improved internal software, resulting in fewer user complaints, simplifying the manufacturing process and saving time.",
-      "Focused heavily on the quality of documentation, which improved the onboarding process and helped with development.",
+      "Established a single source of truth across 3 Odoo ERP modules by gathering requirements from Sales, Marketing, and Manufacturing and designing the API integration architecture and PostgreSQL schema they read and write through.",
+      "Saved 200 hours/month and halved data-entry errors by leading an Agile project to build Python REST APIs with built-in validation that unified company-wide data and gave teams real-time access to payment data.",
     ],
-    tech: ["React.js", "Node.js", "C#", "Python", "Postgres", "NoSQL", "SQL"],
+    tech: ["Python", "PostgreSQL", "Odoo", "REST APIs"],
   },
   {
     title: "Poisson Consulting",
